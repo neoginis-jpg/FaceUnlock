@@ -80,3 +80,9 @@
 | 로그 (비밀번호는 기록하지 않음) | `~/Library/Logs/FaceUnlock.log` |
 
 카메라 영상은 저장하지 않고, 어떤 정보도 Mac 밖으로 보내지 않습니다.
+
+## 라이선스
+
+[MIT 라이선스](LICENSE)입니다. 자유롭게 쓰고 고치고 다시 배포할 수 있으며, 어떤 보증도 없습니다.
+
+잠금 화면 위에 창을 띄우는 방법은 [Lakr233/SkyLightWindow](https://github.com/Lakr233/SkyLightWindow)를 참고했습니다.
